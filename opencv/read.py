@@ -2,7 +2,7 @@ import cv2 as cv
 
 
 # reading image
-# img = cv.imread("photos\Pic.png")
+# img = cv.imread("photos\covid.jpg")
 #
 # cv.imshow("n" , img)
 #
