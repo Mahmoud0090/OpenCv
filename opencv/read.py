@@ -1,6 +1,5 @@
 import cv2 as cv
 
-
 # reading image
 # img = cv.imread("photos\covid.jpg")
 #
